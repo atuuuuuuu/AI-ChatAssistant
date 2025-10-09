@@ -1,8 +1,8 @@
 {
   "manifest_version": 3,
-  "name": "MOA AI Assistant",
+  "name": "VC AI Assistant",
   "version": "1.1.1",
-  "description": "MOA AI ALPHA VERSION 1",
+  "description": "VC AI ALPHA VERSION 1",
   "icons": {
     "16": "icons/icon-16.png",
     "32": "icons/icon-32.png",
@@ -24,7 +24,7 @@
     "service_worker": "background.js"
   },
   "action": {
-    "default_title": "MOA AI Assistant"
+    "default_title": "VC AI Assistant"
   },
   "web_accessible_resources": [
     {
