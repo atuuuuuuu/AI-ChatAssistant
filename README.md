@@ -1,4 +1,4 @@
-# AI ChatAssistant---
+# AI ChatAssistant
 
 ## How to Use
 
