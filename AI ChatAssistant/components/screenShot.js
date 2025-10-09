@@ -5,7 +5,7 @@ export class ScreenshotController {
             onStart: null
         };
     }
-
+// THIS SHIT IS ASS
     setCallbacks(callbacks) {
         this.callbacks = { ...this.callbacks, ...callbacks };
     }

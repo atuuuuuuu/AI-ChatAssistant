@@ -1,7 +1,7 @@
 import { AutoProcessor, AutoTokenizer, Moondream1ForConditionalGeneration, RawImage } from './lib/transformers300.js';
 import { VoiceController } from './components/voiceControl.js';
 import { ScreenshotController } from './components/screenShot.js';
-
+// Someone fix this bum ass code please
 class AIScreenReader {
     constructor() {
         this.prompts = {

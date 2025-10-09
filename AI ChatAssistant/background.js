@@ -5,7 +5,7 @@ const ERROR_MESSAGES = {
   NO_RESPONSE: "No response from Gemini",
   SESSION_FAILED: "Failed to create Gemini session"
 };
-
+// Gemini is ass, please use DeepSeek R1
 // Commands listener
 chrome.commands.onCommand.addListener((command) => {
   console.log('Command received:', command);
